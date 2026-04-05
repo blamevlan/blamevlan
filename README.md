@@ -1,10 +1,13 @@
-System integration — networking, Linux, infrastructure, virtualization, IT security.
+# blamevlan
 
-Focused on the defensive side — monitoring, hardening, incident response.
+Systems guy. Linux where possible, Windows when necessary, Apple when someone else is paying.
 
-Building small tools and resources for IT apprentices.
-If something comes up repeatedly while helping others, it ends up here.
+Interested in the boring parts of IT that nobody talks about until something breaks — networking, hardening, monitoring, incident response.
+
+Building small tools for apprentices because nobody should have to google the same thing twice.
+
+---
 
 ## Stack
 
-`Linux` `Fedora` `Debian` `Networking` `Virtualization` `Proxmox` `OPNsense` `Sophos` `SIEM` `Security`
+`Linux` `Debian` `Networking` `Virtualization` `Proxmox` `OPNsense` `Sophos` `SIEM` `Security`
