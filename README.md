@@ -7,4 +7,4 @@ If something comes up repeatedly while helping others, it ends up here.
 
 ## Stack
 
-`Linux` `Networking` `Virtualization` `Infrastructure`
+`Linux` `Fedora` `Debian` `Networking` `Virtualization` `Proxmox` `OPNsense` `Sophos` `SIEM` `Security`
